@@ -1,0 +1,44 @@
+#EXTM3U url-tvg="http://botallen.live/epg.xml.gz"
+
+#EXTINF:- tvg-logo="https://i.ibb.co/rZnms76/IMG-20221112-231824-481.jpg" ",YOUZONTV
+https://t.me/YOUZONTV 
+
+#EXTINF:- tvg-logo="https://i.ibb.co/rZnms76/IMG-20221112-231824-481.jpg" ",IPTV INDIAN M3U8 CHANNEL LIVE
+https://t.me/IPTV_INDIAN_M3U8_CHANNEL_LIVE
+
+#EXTINF:- tvg-logo="https://ap2-prod-images.disco-api.com/2020/09/06/7eed96cb-3c78-42e3-aaef-364101bc5115.png?bf=0&f=jpg&p=true&q=85&w=250" ",Discovery Channel
+https://youzontv-app.tk/discovery%2B/Discovery_Channel.m3u8
+
+#EXTINF:- tvg-logo="https://ap2-prod-images.disco-api.com/2020/09/06/686381d9-5ec1-4281-a169-d445daa66d2c.png?bf=0&f=jpg&p=true&q=85&w=250" ",Animal Planet
+https://youzontv-app.tk/discovery%2B/Animal_Planet.m3u8
+
+#EXTINF:- tvg-logo="https://ap2-prod-images.disco-api.com/2022/06/08/29d580fc-9bac-4b28-a315-b98bad41e7d4.png?bf=0&f=jpg&p=true&q=85&w=250" ",Discovery Science
+https://youzontv-app.tk/discovery%2B/Discovery_Science.m3u8
+
+#EXTINF:- tvg-logo="https://ap2-prod-images.disco-api.com/2020/09/06/0e38f005-1d15-4b87-bac5-77deeb4f900e.png?bf=0&f=jpg&p=true&q=85&w=250" ",Discovery Turbo
+https://youzontv-app.tk/discovery%2B/Discovery_Turbo.m3u8
+
+#EXTINF:- tvg-logo="https://ap2-prod-images.disco-api.com/2022/06/08/55d22b57-7a60-41ed-b149-d109849aa379.png?bf=0&f=jpg&p=true&q=85&w=250" ",Investigation Discovery
+https://youzontv-app.tk/discovery%2B/Investigation_Discovery.m3u8
+
+#EXTINF:- tvg-logo="https://ap2-prod-images.disco-api.com/2020/12/16/e81e70aa-2cb4-4cdc-9596-b17072c7227d.png?bf=0&f=jpg&p=true&q=85" ",EuroSport
+https://youzontv-app.tk/discovery%2B/Eurosport.m3u8
+
+#EXTINF:- tvg-logo="https://ap2-prod-images.disco-api.com/2020/12/16/b47e7ecc-6b07-4e17-976a-b5d7d14932d8.png?bf=0&f=jpg&p=true&q=85&w=250" ",DMAX
+https://youzontv-app.tk/discovery%2B/DMAX.m3u8
+
+#EXTINF:- tvg-logo="https://ap2-prod-images.disco-api.com/2020/12/16/d7e67400-9a56-4943-9056-94d4686566b1.png?bf=0&f=jpg&p=true&q=85&w=250" ",TRVL Channel
+https://youzontv-app.tk/discovery%2B/TRVL_Channel.m3u8
+
+#EXTINF:- tvg-logo="https://ap2-prod-images.disco-api.com/2020/12/16/512a525a-6841-4a53-bd25-22f5f055dd1a.png?bf=0&f=jpg&p=true&q=85&w=250" ",Food Network
+https://youzontv-app.tk/discovery%2B/FoodNetwork.m3u8
+
+#EXTINF:- tvg-logo="https://seeklogo.com/images/H/hgtv-logo-C6693DCA5A-seeklogo.com.png?bf=0&f=jpg&p=true&q=85&w=250" ",HGTV
+https://youzontv-app.tk/discovery%2B/HGTV.m3u8
+
+#EXTINF:- tvg-logo="https://ap2-prod-images.disco-api.com/2020/09/06/a363a4f2-d346-45f7-91b3-e9067c53d4ea.png?bf=0&f=jpg&p=true&q=85&w=250" ",TLC HD
+https://youzontv-app.tk/discovery%2B/TLC.m3u8
+
+#EXTINF: -1 tvg-id="525" tvg-logo="https://ap2-prod-images.disco-api.com/2020/12/16/f24c50c6-b65b-408e-bf71-a46f58df4827.png?bf=0&f=jpg&p=true&q=85&w=250" ",SONY Discovery Kids
+https://youzontv-app.tk/discovery%2B/Discovery_Kids.m3u8
+
